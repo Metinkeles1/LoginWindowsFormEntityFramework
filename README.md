@@ -2,24 +2,25 @@
 (.Net, C#, SqlServer, Database, EntityFrameWork)
 
 ### Proje kurulum
-1- ilgili dosyalar içerisinde "loginRegister.bak" dosyası yani veritabanı yedek dosyası yüklenir.
+1- ilgili dosyalar iÃ§erisinde "loginRegister.bak" dosyasÄ± yani veritabanÄ± yedek dosyasÄ± yÃ¼klenir.
 </br>
 2-
 
 
-### Kullanıcı Oluşturma Sayfası
-bu sayfada ilgili öğrencinin veya kullanıcının bilgileri girildikten sonra oluştur butonuna tıklandığında veritabanına yeni veriyi kaydetme işlemi gerçekleşir.
+### KullanÄ±cÄ± OluÅŸturma SayfasÄ±
+bu sayfada ilgili Ã¶ÄŸrencinin veya kullanÄ±cÄ±nÄ±n bilgileri girildikten sonra oluÅŸtur butonuna tÄ±klandÄ±ÄŸÄ±nda veritabanÄ±na yeni veriyi kaydetme iÅŸlemi gerÃ§ekleÅŸir.
 
 <img src="yeniKullaniciSayfasi.png" center></img>
 </br>
 
-### kullanıcı giriş sayfası
-bu sayfada ilgili kişinin kaydı yapıldıktan sonra sorgu ile textboxtan alınan veriler veritabanında ki ilgili kişinin numarası ve şifresi ile karşılaştırılır. veriler doğru ise uygulama sistemine giriş yapar. yanlış ise kullanıcıya messagebox gelir
+### kullanÄ±cÄ± giriÅŸ sayfasÄ±
+bu sayfada ilgili kiÅŸinin kaydÄ± yapÄ±ldÄ±ktan sonra sorgu ile textboxtan alÄ±nan veriler veritabanÄ±nda ki ilgili kiÅŸinin numarasÄ± ve ÅŸifresi ile karÅŸÄ±laÅŸtÄ±rÄ±lÄ±r. veriler doÄŸru ise uygulama sistemine giriÅŸ yapar. yanlÄ±ÅŸ ise kullanÄ±cÄ±ya messagebox gelir
+
 <img src="girisSayfasi.png"></img>
 </br>
 
-### Uygulama Sayfası
-giriş yapan kullanıcıların bilgilerini veritabanından çeker ve onunla ilgili bilgileri gösterir.
+### Uygulama SayfasÄ±
+giriÅŸ yapan kullanÄ±cÄ±larÄ±n bilgilerini veritabanÄ±ndan Ã§eker ve onunla ilgili bilgileri gÃ¶sterir.
 <img src="anaSayfa.png"></img>
 </br>
 
