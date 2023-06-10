@@ -4,7 +4,9 @@
 ### Proje kurulum
 1- ilgili dosyalar içerisinde "loginRegister.bak" dosyası yani veritabanı yedek dosyası yüklenir.
 </br>
-2-
+2-app.config dosyası içerisinden "data source" alanı aratılır ve ilgili baglanti yerine local makinede ki adres eklenir
+</br>
+ data source=DESKTOP-74DVE87\SQLEXPRESS; 
 
 
 ### Kullanıcı Oluşturma Sayfası
